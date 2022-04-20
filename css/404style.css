@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@700&family=Space+Mono:wght@700&family=Sriracha&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.content{
+    position: relative;
+    width: 1440px;
+    height: 1080px;
+
+    background: #FFFFFF;
+    box-shadow: 0px 2px 24px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+}
+
+.NOT_FOUND{
+    position: absolute;
+    /*width: 133px;*/
+    height: 25px;
+    left: 77px;
+    top: 40px;
+    font-family: 'Inconsolata';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 25px;
+    letter-spacing: -0.08em;
+    text-transform: uppercase;
+    color: #333333;
+}
+
+.description{
+    /*clear: left;*/
+    padding: 265px 119px 349px 77px;
+}
+
+img{
+    /*position: absolute;*/
+    width: 539.22px;
+    height: 447.43px;
+}
+
+.description img{
+    float: left;
+}
+
+.messages{
+    float: right;
+}
+
+.main_message{
+    /*position: absolute;*/
+    width: 586px;
+    height: 190px;
+    /*left: 735px;
+    top: 265px;*/
+
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 95px;
+    letter-spacing: -0.035em;
+    color: #333333;
+}
+
+.sub_message{
+    position: relative;
+    top: 36px;
+    left: 1px;
+    width: 381px;
+    height: 108px;
+    /*left: 736px;
+    top: 491px;*/
+
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+
+    /* Gray 2 */
+
+    color: #4F4F4F;
+
+}
+
+.rectangle{
+    position: relative;
+    top: 100px;
+    left: 5px;
+    width: 216px;
+    height: 68px;
+    /*left: 740px;
+    top: 663px;*/
+    /*padding: 0 135px 0 5px;*/
+
+    /* Gray 1 */
+    background: #333333;
+
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 21px;
+    /* identical to box height */
+
+    letter-spacing: -0.035em;
+    text-transform: uppercase;
+
+    color: #FFFFFF;
+
+}
+
+
+footer{
+    position: absolute;
+    width: 287px;
+    height: 17px;
+    left: 577px;
+    top: 1039px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    /* identical to box height */
+
+    text-align: center;
+
+    color: #BDBDBD;
+}
+
+.myname{
+    font-weight: 700;
+}
