@@ -1,1 +1,1 @@
-[404](https://yasuhiko-kiba.github.io/404notfound/)
+[404](https://yasuhiko-kiba.github.io/devchallenge404notfound/)
